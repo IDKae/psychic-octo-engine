@@ -2,4 +2,12 @@
 A game with equal gameplay and storyline
 
 ## To-Do List
-*Gameplay
+* Storyline
+* Gameplay
+* Preface (May use random plot generator)
+
+## Storyline
+
+## Gameplay
+
+## Preface
